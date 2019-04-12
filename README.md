@@ -5,9 +5,9 @@ https://github.com/DwikiWitman/StarbucksBevierML/blob/master/Result-2.JPG
 
 Untuk alasan ini, dilakukan tinjauan sistematis yang menyelidiki seberapa nyata hasil rekomendasi dengan model ML. Dalam hal ini, model support vector machine (svm) digunakan untuk melihat potensi algorima ini dan pengaruhnya terhadap perkembangan rekomendasi minuman starbuck. Diharapkan dari peninjauan sistematis ini, para pengembang sistem rekomendasi serupa dapat memperoleh lebih banyak informasi dari penelitian ini.
 
+#
 
-
-# StarbucksBevierML(EN)
+# StarbucksBevierML (EN)
 Through Machine Learning (ML), researchers may not know which areas can have a significant impact, especially the products sold to users, one of which helps researchers improve the recommendations of starbuck drinks. Machine learning emphasizes probability, in this case the possibility of the right choice of drinks according to the input of caffeine, calories, carbohydrates, cholesterol, protein and sugar content. It is necessary to identify the prediction of beverage choices to users, through the ML model, it can also help show the trend and direction of further development.
 
 https://github.com/DwikiWitman/StarbucksBevierML/blob/master/Result-2.JPG
