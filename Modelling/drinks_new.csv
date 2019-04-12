@@ -1,0 +1,243 @@
+Beverage,Calories,Cholesterol,Carbohydrates, Sugars, Protein,Caffeine
+Brewed Coffee,3,0,5,0,0.3,175
+Brewed Coffee,4,0,10,0,0.5,260
+Brewed Coffee,5,0,10,0,1,330
+Brewed Coffee,5,0,10,0,1,410
+Caffè Latte,70,10,75,9,6,75
+Caffè Latte,100,10,85,9,6,75
+Caffè Latte,70,6,65,4,5,75
+Caffè Latte,100,15,120,14,10,75
+Caffè Latte,150,15,135,14,10,75
+Caffè Latte,110,10,105,6,8,75
+Caffè Latte,130,19,150,18,13,150
+Caffè Latte,190,19,170,17,12,150
+Caffè Latte,150,13,130,8,10,150
+Caffè Latte,170,25,190,23,16,150
+Caffè Latte,240,24,220,22,16,150
+Caffè Latte,190,16,170,11,13,150
+Caffè Mocha (Without Whipped Cream),110,21,60,17,7,85
+Caffè Mocha (Without Whipped Cream),130,21,70,17,6,85
+Caffè Mocha (Without Whipped Cream),110,19,55,13,6,85
+Caffè Mocha (Without Whipped Cream),170,32,100,27,10,95
+Caffè Mocha (Without Whipped Cream),200,32,115,26,10,95
+Caffè Mocha (Without Whipped Cream),180,28,85,20,9,95
+Caffè Mocha (Without Whipped Cream),220,43,125,34,13,175
+Caffè Mocha (Without Whipped Cream),260,42,140,34,13,175
+Caffè Mocha (Without Whipped Cream),230,37,105,26,11,175
+Caffè Mocha (Without Whipped Cream),280,54,160,44,17,180
+Caffè Mocha (Without Whipped Cream),340,53,180,43,17,180
+Caffè Mocha (Without Whipped Cream),290,47,140,33,14,180
+Vanilla Latte (Or Other Flavoured Latte),100,19,70,18,6,75
+Vanilla Latte (Or Other Flavoured Latte),130,18,80,17,6,75
+Vanilla Latte (Or Other Flavoured Latte),110,16,60,13,5,75
+Vanilla Latte (Or Other Flavoured Latte),150,28,110,27,9,75
+Vanilla Latte (Or Other Flavoured Latte),200,28,125,27,9,75
+Vanilla Latte (Or Other Flavoured Latte),160,23,95,20,7,75
+Vanilla Latte (Or Other Flavoured Latte),200,37,140,35,12,150
+Vanilla Latte (Or Other Flavoured Latte),250,37,150,35,12,150
+Vanilla Latte (Or Other Flavoured Latte),210,31,120,26,9,150
+Vanilla Latte (Or Other Flavoured Latte),250,47,180,45,15,150
+Vanilla Latte (Or Other Flavoured Latte),320,46,200,44,15,150
+Vanilla Latte (Or Other Flavoured Latte),270,39,160,33,12,150
+Caffè Americano,5,1,5,0,0.4,75
+Caffè Americano,10,2,10,0,1,150
+Caffè Americano,15,3,15,0,1,225
+Caffè Americano,25,4,15,0,1,300
+Cappuccino,50,8,60,7,5,75
+Cappuccino,80,8,70,7,5,75
+Cappuccino,50,4,40,3,3,75
+Cappuccino,60,9,70,8,6,75
+Cappuccino,90,9,80,8,6,75
+Cappuccino,70,7,65,4,5,75
+Cappuccino,80,12,90,10,8,150
+Cappuccino,120,12,100,10,8,150
+Cappuccino,100,9,80,5,7,150
+Cappuccino,110,16,120,14,10,150
+Cappuccino,150,16,135,14,10,150
+Cappuccino,120,11,110,7,9,150
+Espresso,5,1,0,0,0.4,75
+Espresso,10,2,1,0,1,150
+Skinny Latte (Any Flavour),60,9,80,8,6,75
+Skinny Latte (Any Flavour),100,14,125,13,9,75
+Skinny Latte (Any Flavour),120,18,160,16,12,150
+Skinny Latte (Any Flavour),160,24,200,21,15,150
+Caramel Macchiato,100,17,70,15,6,75
+Caramel Macchiato,120,16,80,15,5,75
+Caramel Macchiato,100,14,60,11,4,75
+Caramel Macchiato,140,25,105,24,8,75
+Caramel Macchiato,180,25,115,23,8,75
+Caramel Macchiato,150,21,90,17,7,75
+Caramel Macchiato,190,35,130,32,11,150
+Caramel Macchiato,240,34,150,32,10,150
+Caramel Macchiato,200,29,115,24,9,150
+Caramel Macchiato,240,43,170,41,13,150
+Caramel Macchiato,300,43,180,40,13,150
+Caramel Macchiato,250,36,140,31,11,150
+White Chocolate Mocha (Without Whipped Cream),180,31,120,29,7,75
+White Chocolate Mocha (Without Whipped Cream),200,31,125,29,7,75
+White Chocolate Mocha (Without Whipped Cream),180,28,110,25,6,75
+White Chocolate Mocha (Without Whipped Cream),270,47,190,45,12,75
+White Chocolate Mocha (Without Whipped Cream),310,46,200,44,11,75
+White Chocolate Mocha (Without Whipped Cream),280,42,170,39,10,75
+White Chocolate Mocha (Without Whipped Cream),350,61,240,58,15,150
+White Chocolate Mocha (Without Whipped Cream),400,61,250,58,15,150
+White Chocolate Mocha (Without Whipped Cream),370,56,220,51,13,150
+White Chocolate Mocha (Without Whipped Cream),450,78,310,74,19,150
+White Chocolate Mocha (Without Whipped Cream),510,77,330,74,19,150
+White Chocolate Mocha (Without Whipped Cream),460,70,290,64,16,150
+Hot Chocolate (Without Whipped Cream),130,26,70,23,7,10
+Hot Chocolate (Without Whipped Cream),150,26,80,22,7,10
+Hot Chocolate (Without Whipped Cream),130,23,60,18,6,10
+Hot Chocolate (Without Whipped Cream),190,37,110,32,11,20
+Hot Chocolate (Without Whipped Cream),230,37,120,32,10,20
+Hot Chocolate (Without Whipped Cream),200,32,95,25,9,20
+Hot Chocolate (Without Whipped Cream),240,48,140,41,14,25
+Hot Chocolate (Without Whipped Cream),290,47,160,41,14,25
+Hot Chocolate (Without Whipped Cream),250,41,125,32,12,25
+Hot Chocolate (Without Whipped Cream),320,63,180,55,18,30
+Hot Chocolate (Without Whipped Cream),380,63,200,54,17,30
+Hot Chocolate (Without Whipped Cream),330,55,160,44,15,30
+Caramel Apple Spice (Without Whipped Cream),140,35,10,33,0,0
+Caramel Apple Spice (Without Whipped Cream),210,53,15,49,0,0
+Caramel Apple Spice (Without Whipped Cream),280,70,20,65,0,0
+Caramel Apple Spice (Without Whipped Cream),360,89,25,83,0,0
+Tazo® Tea,0,0,0,0,0,0
+Tazo® Tea,0,0,0,0,0,0
+Tazo® Tea,0,0,0,0,0,0
+Tazo® Tea,0,0,0,0,0,0
+Tazo® Chai Tea Latte,100,22,50,21,4,50
+Tazo® Chai Tea Latte,120,22,55,21,4,50
+Tazo® Chai Tea Latte,110,20,45,18,3,50
+Tazo® Chai Tea Latte,160,34,80,32,6,70
+Tazo® Chai Tea Latte,190,34,90,32,6,70
+Tazo® Chai Tea Latte,160,31,70,28,5,70
+Tazo® Chai Tea Latte,210,45,105,43,8,95
+Tazo® Chai Tea Latte,240,45,115,42,8,95
+Tazo® Chai Tea Latte,220,41,90,37,6,95
+Tazo® Chai Tea Latte,260,57,135,54,10,120
+Tazo® Chai Tea Latte,310,56,150,53,10,120
+Tazo® Chai Tea Latte,280,51,115,46,8,120
+Tazo® Green Tea Latte,130,26,85,25,7,25
+Tazo® Green Tea Latte,170,26,95,25,7,25
+Tazo® Green Tea Latte,140,22,70,20,6,25
+Tazo® Green Tea Latte,210,42,125,41,11,55
+Tazo® Green Tea Latte,260,41,140,40,10,55
+Tazo® Green Tea Latte,230,36,110,33,9,55
+Tazo® Green Tea Latte,290,57,160,56,14,80
+Tazo® Green Tea Latte,350,57,180,55,14,80
+Tazo® Green Tea Latte,310,50,140,46,11,80
+Tazo® Green Tea Latte,370,73,200,71,18,110
+Tazo® Green Tea Latte,450,72,230,71,17,110
+Tazo® Green Tea Latte,390,64,180,58,14,110
+Tazo® Full-Leaf Tea Latte,80,16,45,16,4,0
+Tazo® Full-Leaf Tea Latte,90,15,50,15,3,0
+Tazo® Full-Leaf Tea Latte,80,14,40,13,3,0
+Tazo® Full-Leaf Tea Latte,120,23,65,23,5,0
+Tazo® Full-Leaf Tea Latte,140,23,75,23,5,0
+Tazo® Full-Leaf Tea Latte,130,21,60,19,4,0
+Tazo® Full-Leaf Tea Latte,150,31,85,31,7,0
+Tazo® Full-Leaf Tea Latte,190,31,95,30,7,0
+Tazo® Full-Leaf Tea Latte,170,27,80,25,6,0
+Tazo® Full-Leaf Tea Latte,190,39,110,39,9,0
+Tazo® Full-Leaf Tea Latte,230,38,125,38,9,0
+Tazo® Full-Leaf Tea Latte,210,34,100,32,7,0
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),80,16,45,16,4,0
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),90,15,50,15,3,0
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),80,14,40,13,3,0
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),120,23,65,23,5,0
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),140,23,75,23,5,0
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),130,21,60,19,4,0
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),150,31,85,31,7,0
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),190,31,95,30,7,0
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),170,27,80,25,6,0
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),190,39,110,39,9,0
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),230,38,125,38,9,0
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),210,34,100,32,7,0
+Iced Brewed Coffee (With Classic Syrup),60,15,4,15,0.2,120
+Iced Brewed Coffee (With Classic Syrup),90,21,5,21,0.3,165
+Iced Brewed Coffee (With Classic Syrup),130,31,5,31,0.4,235
+Iced Brewed Coffee (With Milk & Classic Syrup),80,18,25,18,2,90
+Iced Brewed Coffee (With Milk & Classic Syrup),90,18,25,18,2,0
+Iced Brewed Coffee (With Milk & Classic Syrup),80,17,20,17,2,90
+Iced Brewed Coffee (With Milk & Classic Syrup),110,24,30,24,2,90
+Iced Brewed Coffee (With Milk & Classic Syrup),120,24,35,24,2,125
+Iced Brewed Coffee (With Milk & Classic Syrup),110,23,30,22,2,125
+Iced Brewed Coffee (With Milk & Classic Syrup),160,36,50,36,4,125
+Iced Brewed Coffee (With Milk & Classic Syrup),180,36,55,36,4,170
+Iced Brewed Coffee (With Milk & Classic Syrup),170,34,45,33,3,170
+Shaken Iced Tazo® Tea (With Classic Syrup),60,15,0,15,0,170
+Shaken Iced Tazo® Tea (With Classic Syrup),80,21,0,21,0,170
+Shaken Iced Tazo® Tea (With Classic Syrup),120,31,0,31,0,170
+Shaken Iced Tazo® Tea Lemonade (With Classic Syrup),100,25,0,24,0.1,170
+Shaken Iced Tazo® Tea Lemonade (With Classic Syrup),130,33,0,33,0.1,170
+Shaken Iced Tazo® Tea Lemonade (With Classic Syrup),190,49,0,49,0.1,170
+Banana Chocolate Smoothie,280,53,150,34,20,15
+Banana Chocolate Smoothie,300,53,160,34,20,15
+Banana Chocolate Smoothie,290,51,150,31,19,15
+Orange Mango Banana Smoothie,260,54,120,37,16,15
+Orange Mango Banana Smoothie,270,53,125,37,16,0
+Orange Mango Banana Smoothie,270,53,120,36,15,0
+Strawberry Banana Smoothie,290,58,125,41,16,0
+Strawberry Banana Smoothie,290,58,125,41,16,0
+Strawberry Banana Smoothie,290,58,120,40,16,0
+Coffee,160,36,160,36,3,0
+Coffee,180,36,160,36,3,70
+Coffee,160,35,150,34,2,70
+Coffee,220,51,210,50,4,70
+Coffee,240,50,220,50,3,95
+Coffee,220,49,210,47,3,95
+Coffee,310,70,300,69,6,95
+Coffee,350,70,300,69,5,130
+Coffee,310,68,300,66,5,130
+Mocha (Without Whipped Cream),180,42,150,40,3,130
+Mocha (Without Whipped Cream),200,42,160,40,3,70
+Mocha (Without Whipped Cream),180,40,150,38,3,70
+Mocha (Without Whipped Cream),260,61,220,58,4,110
+Mocha (Without Whipped Cream),290,61,220,58,4,110
+Mocha (Without Whipped Cream),260,59,220,55,4,110
+Mocha (Without Whipped Cream),340,80,300,76,7,140
+Mocha (Without Whipped Cream),390,80,300,76,6,140
+Mocha (Without Whipped Cream),350,78,290,73,6,140
+Caramel (Without Whipped Cream),180,42,160,41,3,70
+Caramel (Without Whipped Cream),200,42,160,41,3,70
+Caramel (Without Whipped Cream),180,40,150,39,2,70
+Caramel (Without Whipped Cream),280,60,220,59,4,100
+Caramel (Without Whipped Cream),280,60,220,59,3,100
+Caramel (Without Whipped Cream),260,58,220,56,3,100
+Caramel (Without Whipped Cream),330,78,290,77,5,130
+Caramel (Without Whipped Cream),370,78,300,77,5,130
+Caramel (Without Whipped Cream),340,75,290,73,5,130
+Java Chip (Without Whipped Cream),220,47,170,44,4,75
+Java Chip (Without Whipped Cream),240,47,170,44,4,75
+Java Chip (Without Whipped Cream),220,45,170,42,3,75
+Java Chip (Without Whipped Cream),310,67,250,62,5,110
+Java Chip (Without Whipped Cream),340,67,250,62,5,110
+Java Chip (Without Whipped Cream),310,65,240,60,4,110
+Java Chip (Without Whipped Cream),420,90,340,84,7,145
+Java Chip (Without Whipped Cream),460,90,340,84,7,145
+Java Chip (Without Whipped Cream),430,88,330,80,6,145
+Coffee,90,20,160,19,3,70
+Coffee,120,26,210,26,3,95
+Coffee,160,34,270,33,5,120
+Mocha,110,24,150,23,3,70
+Mocha,150,33,200,30,4,95
+Mocha,210,46,280,42,6,130
+Caramel,100,23,140,23,3,65
+Caramel,150,33,200,32,3,90
+Caramel,200,44,270,43,5,120
+Java Chip,150,30,170,27,4,70
+Java Chip,220,43,240,39,5,105
+Java Chip,290,58,320,52,7,165
+Strawberries & Crème (Without Whipped Cream),170,39,140,38,3,0
+Strawberries & Crème (Without Whipped Cream),190,38,140,37,3,0
+Strawberries & Crème (Without Whipped Cream),170,37,135,35,3,0
+Strawberries & Crème (Without Whipped Cream),230,53,190,52,4,0
+Strawberries & Crème (Without Whipped Cream),260,53,190,52,4,0
+Strawberries & Crème (Without Whipped Cream),240,51,180,49,3,0
+Strawberries & Crème (Without Whipped Cream),310,70,260,69,6,0
+Strawberries & Crème (Without Whipped Cream),350,70,260,68,6,0
+Strawberries & Crème (Without Whipped Cream),320,67,250,64,5,0
+Vanilla Bean (Without Whipped Cream),170,39,160,38,4,0
+Vanilla Bean (Without Whipped Cream),200,39,160,38,3,0
+Vanilla Bean (Without Whipped Cream),180,37,160,35,3,0
+Vanilla Bean (Without Whipped Cream),240,56,230,55,5,170
