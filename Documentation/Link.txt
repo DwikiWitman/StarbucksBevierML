@@ -1,0 +1,10 @@
+Link Dataset(Kaggle):
+- https://www.kaggle.com/starbucks/starbucks-menu/version/2
+
+
+Link Api docs (Flasgger)
+- https://drinksclass.herokuapp.com/apidocs/
+
+
+Link Hosting Web Service dan Aplikasi
+- http://bevier.satyadara.com/
